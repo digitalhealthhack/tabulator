@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui>
+    <interface id="dataplicity">
+        <heading>This is the UI for examples.rpi.cam</heading>
+        <text>
+        	Check the timeline, you should see a new picture every minute
+        </text>
+    </interface>
+</ui>
