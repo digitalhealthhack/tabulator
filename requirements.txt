@@ -1,0 +1,4 @@
+dataplicity==0.1.3
+picamera==1.5
+PIL==1.1.7
+pypng==0.0.17
